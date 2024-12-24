@@ -10,6 +10,9 @@ function App() {
       <div className="bg-green-400 p-2 h-16 rounded">
         <p className="text-white text-xs">green grass</p>
       </div>
+      <div className="bg-purple-400 p-2 h-16 rounded">
+        <p className="text-white text-xs">green grass</p>
+      </div>
     </div>
   );
 }
