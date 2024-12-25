@@ -16,7 +16,7 @@ const Inv = () => {
         <div className="flex items-center gap-1">
           <FaCircleUser className="text-rose-400 text-xl" />
 
-          <p className="text-sm font-semibold text-rose-400">LILIAN</p>
+          <p className="text-sm font-semibold text-rose-400">CAMILA</p>
         </div>
       </div>
 
