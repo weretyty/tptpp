@@ -36,7 +36,7 @@ const Inv = () => {
               <GrMoney className="text-[30px] text-blue-400" />
               <p className="text-slate-400 text-lg">Amount Invested</p>
             </div>
-            <div className="text-3xl text-slate-500">$62,540</div>
+            <div className="text-3xl text-slate-500">$678,375</div>
           </div>
         </div>
         <div className="bg-white p-2 h-[130px] w-[90%] flex justify-center items-center shadow-sm border-b-2 border-white rounded border-b-green-400">
@@ -45,7 +45,7 @@ const Inv = () => {
               <PiCurrencyDollarSimpleFill className="text-[40px] text-green-400" />
               <p className="text-slate-400 text-lg">Total Earnings</p>
             </div>
-            <div className="text-3xl text-slate-500">$128,105.90</div>
+            <div className="text-3xl text-slate-500">$1,372,690.88</div>
           </div>
         </div>
         <div className="bg-white p-2 h-[130px] w-[90%] flex justify-center items-center shadow-sm border-b-2 border-white rounded border-b-red-400">
@@ -54,7 +54,7 @@ const Inv = () => {
               <BsBarChartFill className="text-[30px] text-red-400" />
               <p className="text-slate-400 text-lg">Total investments</p>
             </div>
-            <div className="text-3xl text-slate-500">23</div>
+            <div className="text-3xl text-slate-500">269</div>
           </div>
         </div>
         <div className="bg-white p-2 h-[130px] w-[90%] flex justify-center items-center shadow-sm border-b-2 border-white rounded border-b-purple-400">
@@ -63,7 +63,7 @@ const Inv = () => {
               <PiKeyReturnFill className="text-[40px] text-purple-400" />
               <p className="text-slate-400 text-lg">Rate of return</p>
             </div>
-            <div className="text-3xl text-slate-500">+104.87%</div>
+            <div className="text-3xl text-slate-500">+102.34%</div>
           </div>
         </div>
       </div>
