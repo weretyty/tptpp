@@ -2,7 +2,7 @@ import { FaCircleUser } from "react-icons/fa6";
 import { PiCurrencyDollarSimpleFill } from "react-icons/pi";
 import { PiKeyReturnFill } from "react-icons/pi";
 import { GrMoney } from "react-icons/gr";
-import { BsBarChartFill, BsChatFill } from "react-icons/bs";
+import { BsBarChartFill} from "react-icons/bs";
 
 
 function App() {
