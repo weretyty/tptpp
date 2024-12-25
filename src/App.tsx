@@ -16,7 +16,7 @@ function App() {
         <div className="flex items-center gap-1">
           <FaCircleUser className="text-rose-400 text-xl" />
 
-          <p className="text-sm font-semibold text-rose-400">CAMILA</p>
+          <p className="text-sm font-semibold text-rose-400">LILIAN</p>
         </div>
       </div>
 
@@ -24,7 +24,7 @@ function App() {
       <div className="px-6 mt-4">
         <div className="w-[130px] h-[40px] flex items-center gap-2 justify-center rounded-full bg-white shadow-sm">
           <FiChevronsDown className="text-slate-700 "/>
-          <p className="text-slate-700 text-[16px]">Past Year</p>
+          <p className="text-slate-700 text-[16px]">Past Month</p>
         </div>
       </div>
 
@@ -36,7 +36,7 @@ function App() {
               <GrMoney className="text-[30px] text-blue-400" />
               <p className="text-slate-400 text-lg">Amount Invested</p>
             </div>
-            <div className="text-3xl text-slate-500">$678,375</div>
+            <div className="text-3xl text-slate-500">$62,540</div>
           </div>
         </div>
         <div className="bg-white p-2 h-[130px] w-[90%] flex justify-center items-center shadow-sm border-b-2 border-white rounded border-b-green-400">
@@ -45,7 +45,7 @@ function App() {
               <PiCurrencyDollarSimpleFill className="text-[40px] text-green-400" />
               <p className="text-slate-400 text-lg">Total Earnings</p>
             </div>
-            <div className="text-3xl text-slate-500">$1,356,750</div>
+            <div className="text-3xl text-slate-500">$125,080</div>
           </div>
         </div>
         <div className="bg-white p-2 h-[130px] w-[90%] flex justify-center items-center shadow-sm border-b-2 border-white rounded border-b-red-400">
@@ -54,7 +54,7 @@ function App() {
               <BsBarChartFill className="text-[30px] text-red-400" />
               <p className="text-slate-400 text-lg">Total investments</p>
             </div>
-            <div className="text-3xl text-slate-500">269</div>
+            <div className="text-3xl text-slate-500">23</div>
           </div>
         </div>
         <div className="bg-white p-2 h-[130px] w-[90%] flex justify-center items-center shadow-sm border-b-2 border-white rounded border-b-purple-400">
