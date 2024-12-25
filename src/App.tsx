@@ -24,7 +24,7 @@ function App() {
       <div className="px-6 mt-4">
         <div className="w-[130px] h-[40px] flex items-center gap-2 justify-center rounded-full bg-white shadow-sm">
           <FiChevronsDown className="text-slate-700 "/>
-          <p className="text-slate-700 mb-[2px] text-[16px]">Past Year</p>
+          <p className="text-slate-700 mb-[1px] text-[16px]">Past Year</p>
         </div>
       </div>
 
