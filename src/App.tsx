@@ -1,10 +1,12 @@
 //import Inv from "./components/Inv";
-import Trx from "./components/Trx";
+//import Trx from "./components/Trx";
+
+import Inv from "./components/Inv";
 
 function App() {
   return (
     <>
-      <Trx />
+      <Inv />
     </>
   );
 }

@@ -45,7 +45,7 @@ const Inv = () => {
               <PiCurrencyDollarSimpleFill className="text-[40px] text-green-400" />
               <p className="text-slate-400 text-lg">Total Earnings</p>
             </div>
-            <div className="text-3xl text-slate-500">$125,080</div>
+            <div className="text-3xl text-slate-500">$128,105.90</div>
           </div>
         </div>
         <div className="bg-white p-2 h-[130px] w-[90%] flex justify-center items-center shadow-sm border-b-2 border-white rounded border-b-red-400">
@@ -63,7 +63,7 @@ const Inv = () => {
               <PiKeyReturnFill className="text-[40px] text-purple-400" />
               <p className="text-slate-400 text-lg">Rate of return</p>
             </div>
-            <div className="text-3xl text-slate-500">+100.00%</div>
+            <div className="text-3xl text-slate-500">+104.87%</div>
           </div>
         </div>
       </div>
